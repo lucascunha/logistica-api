@@ -7,15 +7,15 @@ Esta API foi desenvolvida como parte do treinamento de Spring REST promovido pel
 
 ## Diagrama
 
-![Diagrama](./img/diagrama.png)
+[![Diagrama](https://github.com/lucascunha/logistica-api/blob/master/img/diagrama.PNG?raw=true)]
 
 ## Conceitos trabalhados
 
-> Collection Resource
-> HTTP
-> Content Negotiation
-> Flyway
-> Jakarta Persistence JPA
-> Spring Data JPA
-> Bean Validation
-> Domain Services
+- Collection Resource
+- HTTP
+- Content Negotiation
+- Flyway
+- Jakarta Persistence JPA
+- Spring Data JPA
+- Bean Validation
+- Domain Services
