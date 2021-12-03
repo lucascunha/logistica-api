@@ -11,7 +11,7 @@ Esta API foi desenvolvida como parte do treinamento de Spring REST promovido pel
 
 ## Conceitos trabalhados
 
-- Collection Resource
+- Collection Resource (Adicionado suporte ao formato XML)
 - HTTP
 - Content Negotiation
 - Flyway
